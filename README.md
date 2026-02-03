@@ -1,5 +1,5 @@
 # MediScan Rural AI 🏥
-**Government of Meghalaya** | *Bridging the Healthcare Gap with AI*
+*Bridging the Healthcare Gap with AI*
 
 ![MediScan Status](https://img.shields.io/badge/Status-Live-green) ![Platform](https://img.shields.io/badge/Platform-FastAPI-blue) ![AI](https://img.shields.io/badge/AI-PyTorch%20%7C%20Transformers-orange)
 
